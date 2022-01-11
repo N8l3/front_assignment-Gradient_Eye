@@ -1,0 +1,44 @@
+.active{
+    color: #FA8902!important;
+}
+.nav-link:hover{
+    color: #0763FC !important;
+}
+.slide{
+    height: 500px;
+    width: 100%;
+}
+@media (max-width: 1080px) {
+    .slide{
+        height: auto;
+        width: 100%;
+    }
+    
+}
+.abt{
+    width: 500px;
+}
+@media (max-width: 756px) {
+.abt{
+    height: 300px;
+    width: 300px;
+}
+}
+
+.btn:hover{
+    color: #FA8902!important;
+
+}
+
+#error_message{
+    margin-bottom: 20px;
+    background: #fe8b8e;
+    padding: 0px;
+    text-align: center;
+    font-size: 14px;
+    transition: all 0.5s ease;
+  }
+
+
+
+
